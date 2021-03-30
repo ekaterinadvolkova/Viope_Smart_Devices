@@ -9,4 +9,5 @@
 [:white_check_mark: Checking if a number is even (2)](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/Checking%20if%20a%20number%20is%20even:not.c) <br>
 [:white_check_mark: Comparison operators](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/comparison_operators.c) <br>
 [:white_check_mark: Calculations](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/Calculations.c) <br>
+[:white_check_mark: Calculations2](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/calculations2.c)
 </ul>
