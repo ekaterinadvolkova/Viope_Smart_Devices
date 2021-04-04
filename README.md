@@ -10,5 +10,6 @@
 [:white_check_mark: Comparison operators](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/comparison_operators.c) <br>
 [:white_check_mark: Calculations](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/Calculations.c) <br>
 [:white_check_mark: Calculations2](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/calculations2.c) <br>
-[:white_check_mark: For Statement](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/For%20Statement.c)
+[:white_check_mark: For Statement](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/For%20Statement.c) <br>
+[:white_check_mark: Factorials](https://github.com/ekaterinadvolkova/Viope_Smart_Devices/blob/master/Viope/factorial.c)
 </ul>
